@@ -1,0 +1,49 @@
+body {
+    background-color: lightyellow;
+}
+
+#title {
+    font-family: 'Times New Roman', Times, serif;
+    height: 300px;
+    
+}
+
+#title p {
+    opacity: 0.2;
+    font-size: 20px;
+}
+
+#top-container {
+    position: fixed;
+    top: 200px;
+}
+
+div {
+    display: block;
+}
+
+.message {
+   padding: 30px 30px 30px 50px;
+   font-size: 28px;
+   width: 680px;
+   font-family: Monaco, Consolas, "Lucida console", monospace;
+}
+
+#bottom-container {
+   position: absolute;
+   top: 2500px;
+   height: 2000px;
+    width: 100%
+    
+
+}
+
+#bottom-container p {
+    margin-left: 5px;
+}
+
+#attribute {
+    text-align: right;
+    width: 680px;
+    padding: 0 30px;
+}
